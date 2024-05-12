@@ -1,7 +1,9 @@
-### Requisitos do projeto:
+### Objetivo do projeto:
 
-Criar um programa que simule um software de acordo com o segmento que foi definido para a sua equipe. O software deverá seguir as especificações abaixo: 
+Criar um programa que simule um software de acordo com o segmento que foi definido para a sua equipe. 
 
+### Regras:
+O software deverá seguir as especificações abaixo: 
 Ao executar o algoritmo, deverá aparecer duas opções:
 A - Para acessar o programa ou F - Para finalizar o programa. 
 
@@ -15,5 +17,6 @@ As cédulas disponíveis são : 50 , 20 , 10 , 5 ,2 e 1 real .Sempre utilizar o 
 
 No processo de finalização da compra deve existir uma opção para o cliente desistir da compra , em caso positivo deve ser perguntado a confirmação da desistência (informando os produtos/serviços que o cliente está desistindo)
 
+# Finalização do projeto:
 Ao finalizar a compra deve-se voltar a tela inicial Acessar programa / finalizar programa . 
 Quando finalizar deve-se exibir uma mensagem agradecendo a visita, informando o que foi comprado e o valor gasto no estabelecimento 
